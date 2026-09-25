@@ -145,3 +145,5 @@ curl -s "http://localhost:8080/api/days-until-new-year?date=2024-12-31"
 # Некорректная дата -> 400
 curl -si "http://localhost:8080/api/days-until-new-year?date=abc"
 ```
+
+йцу
